@@ -29,6 +29,6 @@ What if the athlete doesn't recognize a move? They simply tap for more informati
 What if they can't do certain tricks and thus, don't want them to show up in generations? In this case they just go into the categories and moves list and uncheck them, thereby making them not appear in generation.
 
 ## Conclusion
-As you can see, the app is very diverse and practical specifically for athletes in the sport. It even could serve as a way for people to progress and learn different tricks and add them to their skillset since many of the links are tutorials for different moves. 
+As you can see, the app is very diverse and practical specifically for athletes in the sport. It even could serve as a way for people to progress and learn different tricks and add them to their skillset since many of the links for different moves lead to full-blown tutorials. 
 
-All in all, I hope this provides a good opportunity for growth, good, funny, and creative memories for athletes and people learning. 
+All in all, I hope this provides a good opportunity for growth, as well as good, funny, and creative memories for athletes and people learning. 

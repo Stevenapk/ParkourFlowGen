@@ -31,4 +31,4 @@ What if they can't do certain tricks and thus, don't want them to show up in gen
 ## Conclusion
 As you can see, the app is very diverse and practical specifically for athletes in the sport. It even could serve as a way for people to progress and learn different tricks and add them to their skillset since many of the links for different moves lead to full-blown tutorials. 
 
-All in all, I hope this provides a good opportunity for growth, as well as good, funny, and creative memories for athletes and people learning. 
+All in all, I hope this provides a good opportunity for growth, as well as good, funny, and creative memories for athletes and people eager to learn. 

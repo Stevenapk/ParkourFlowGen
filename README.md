@@ -7,7 +7,7 @@ Parkour Flow Generator was designed with parkour and freerunning athletes in min
 There are two different modes to generate combos. They can be swiped between depending on the needs of the user.
 
 ### Custom Mode
-This is the mode with the most utility for athletes. In Custom mode, athletes can add categories of moves to their line. For example, they may want a line that consists of a flip -> breakdancing move -> dismount trick -> flow move -> vault -> wall trick, in that order. They can do this no problem using custom mode. Once they click the generate button, it will give them a combo in that order with a random move chosen for each category. 
+This is the mode with the most utility for athletes. In Custom mode, athletes can add categories of moves to the lineup. For example, they may want a line that consists of a flip -> breakdancing move -> dismount trick -> flow move -> vault -> wall trick, in that order. They can do this no problem using custom mode. Once they click the generate button, it will give them a combo in that order with a random move chosen for each category. 
 
 ### Random Mode
 The second method is Random mode. In this mode, all the ahtlete does is specify the number of moves in the combo, and it generated a line with random categories. This can be useful for fun games or youtube challenges.

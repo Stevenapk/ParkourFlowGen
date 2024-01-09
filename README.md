@@ -1,6 +1,6 @@
 # Parkour Flow Generator
 
-Parkour Flow Generator was designed with athletes in mind. It generates combos for the user in a couple different ways so they can have fun with their friends or alone trying funny or creative combos.
+Parkour Flow Generator was designed with parkour and freerunning athletes in mind. It generates combos for the user in a couple different ways so they can have fun with their friends or alone trying funny or creative combos.
 
 The first method is probably the most useful, and we'll just call it Custom mode. In Custom mode, athletes can add categories of moves to their line. For example, they may want a line that consists of a flip -> breakdancing move -> dismount trick -> flow move -> vault -> wall trick, in that order. They can do this no problem using custom mode. 
 

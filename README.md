@@ -1,6 +1,6 @@
 # Parkour Flow Generator
 
-Parkour Flow Generator was designed with parkour and freerunning athletes in mind. It generates combos for the user in a couple different ways so they can have fun with their friends or alone trying funny or creative combos. There are more than 600 parkour, freerunning, breakdancing, tricking, modifiers and more in this app, each with video resources.
+Parkour Flow Generator was designed with parkour and freerunning athletes in mind. It generates combos for the user in a couple different ways so they can have fun with their friends or alone trying funny or creative combos. There are more than 600 parkour, freerunning, breakdancing, tricking, modifiers, vaults and more moves in this app, each with video resources.
 
 ## Modes
 

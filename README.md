@@ -26,7 +26,7 @@ What if they invent new tricks they want to add to the app or one is missing? Th
 What if the athlete doesn't recognize a move? They simply tap for more information on the move and can see a description and a video link to youtube with either a full tutorial or an example of the trick. For new moves that they don't add a link to, the app automatically generates a link that searches that move in youtube just in case it does exist and they forgot to add it or didn't want to go through the trouble of adding a video resource. 
 
 ### Disabling certain moves from the list
-What if they can't do certain tricks any don't want them to generate ever? In this case they just go into the categories and moves list and uncheck them, thereby making them not appear in generation.
+What if they can't do certain tricks and thus, don't want them to show up in generations? In this case they just go into the categories and moves list and uncheck them, thereby making them not appear in generation.
 
 ## Conclusion
 As you can see, the app is very diverse and practical specifically for athletes in the sport. It even could serve as a way for people to progress and learn different tricks and add them to their skillset since many of the links are tutorials for different moves. 

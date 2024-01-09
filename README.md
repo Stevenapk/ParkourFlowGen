@@ -14,7 +14,7 @@ This is the more party-game-type mode you might try with friends. In Random mode
 
 ## Additional Features
 ### Modifiers
-In addition to this, users can apply modifiers. Some of these are fun like "eyes-closed" while others are more practical like "nike pose". These modifiers can be added after a category selection in order to make the move more difficult. 
+In addition to this, users can apply modifiers. Some of these are fun like "eyes-closed" while others are more practical like "nike pose". These modifiers can be added after a category selection in order to make a move more difficult or just to try really funny things.
 
 ### Re-generation Options
 So what if they don't like the combo they generated? Luckily, there are many ways to deal with this. They can regenerate the whole combo with the same parameters at the touch of a button. They can also swap individual moves for a new move in the category or switch a category if they want to. On top of this, they can keep adding random moves to the end of the line, if they're playing a game where the generation needs to be more progressive. 

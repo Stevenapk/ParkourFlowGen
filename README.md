@@ -9,7 +9,7 @@ There are more than 300+ moves with tutorials across 9 different movement catego
 There are two different modes to generate combos. They can be swiped between depending on the needs of the user.
 
 ### Custom Mode
-This is the mode with the most utility for athletes. In Custom mode, athletes can add categories of moves to the lineup. For example, they may want a line that consists of a flip -> breakdancing move -> dismount trick -> flow move -> vault -> wall trick, in that order. They can do this no problem using custom mode. Once they tap the generate button, it will give them a combo in that order with a random move chosen for each category. 
+This is the mode with the most utility for athletes. In Custom mode, athletes can add categories of moves to the lineup. For example, they may want a line that consists of a flip -> breakdancing move -> dismount trick -> flow move -> vault -> wall trick, in that order. They can do this no problem using custom mode. Once they tap the generate button, it will give them a combo in that order with a random move chosen for each category. Further customization is possible after generation.
 
 ### Random Mode
 This is the more party-game-type mode you might try with friends. In Random mode, the user toggles the number of moves in the combo. Once they tap generate, it creates a line with random categories in a random order with random moves. This can be useful for fun games or youtube challenges.

@@ -2,7 +2,7 @@
 
 Parkour Flow Generator was designed with parkour and freerunning athletes in mind. It generates combos for the user in a couple different ways so they can have fun with their friends or alone trying funny or creative combos. 
 
-There are more than 300+ moves with tutorials in 9 categories (parkour, freerunning, breakdancing, tricking, modifiers, vaults and more) in this app.
+There are more than 300+ moves with tutorials across 9 different movement categories (parkour, freerunning, breakdancing, tricking, modifiers, vaults and more) in this app.
 
 ## Modes
 
